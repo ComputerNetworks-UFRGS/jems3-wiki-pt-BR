@@ -1,0 +1,5 @@
+### Recomendações Gerais para Usuários
+_____________
+- Sempre mantenha um **backup** das informações de submissão, arquivos e avaliações. Não deixe somente no sistema as informações das avaliações porque, em caso de problemas no sistema, os chairs vão esperar que você reinsira as informações se for necessário. Isso não deve implicar refazer o trabalho, por exemplo, revisar o artigo novamente.
+- Não adicione usuários ao sistema indiscriminadamente; tente encontrar usuários já cadastrados e, em caso de **duplicatas**, você deve reportar isso aos administradores do sistema JEMS.
+- Para **membros do TPC**, certifique-se, se você for autor de um artigo, que o usuário registrado na submissão é o MESMO que você está usando como membro do TPC, porque pode acontecer do sistema sugerir você como revisor do seu próprio artigo. É responsabilidade do membro do TPC reportar esse caso o mais rápido possível aos chairs da conferência ou, se isso for descoberto mais tarde no processo, seu artigo será retirado.
